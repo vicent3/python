@@ -1,7 +1,7 @@
 
-nombre = 'Juan Daniel'
+nombre = 'Juan Pedro'
 
-edad = 27;
+edad = 17;
 
 saludo = 'Hola, ' + nombre + ' tienes: ' +  str(edad) ;
 
